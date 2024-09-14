@@ -151,7 +151,7 @@ gap: 40px;
 
 /* section 2   */
 .studio-secret {
-    padding: 120px 0;
+padding: 120px 0;
 }
 .visually-hidden {
 position: absolute;
@@ -165,7 +165,6 @@ clip-path: inset(100%);
 clip: rect(0 0 0 0);
 overflow: hidden;
 }
-
 
 .secret-list {
     gap: 24px;
